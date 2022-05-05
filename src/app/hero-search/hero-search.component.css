@@ -11,6 +11,7 @@ label {
     text-align: center;
   }
   input {
+    text-align: center;
     padding: .5rem;
     width: 100%;
     max-width: 600px;
@@ -26,6 +27,7 @@ label {
     list-style-type: none;
   }
   .search-result li a {
+    text-align: center;
     border-bottom: 1px solid gray;
     border-left: 1px solid gray;
     border-right: 1px solid gray;
@@ -44,6 +46,7 @@ label {
   }
   
   ul.search-result {
+    text-align: center;
     margin-top: 0;
     padding-left: 0;
   }
