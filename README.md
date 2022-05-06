@@ -1,6 +1,5 @@
 # AngularHeroTutorial & Template-Driven Form
 
-<<<<<<< HEAD
 Learning Angular:
 - components,
 - servises,
