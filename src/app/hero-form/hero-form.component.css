@@ -1,0 +1,41 @@
+.hero-example, .form-buttons {
+    width: 40%;
+    margin: auto;
+}
+
+.form-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.form-group {
+    width: 40%;
+    margin: auto;
+}
+
+label {
+  font-size: 20px;
+}
+
+.btn-form {
+  width: 100px;
+  padding: 5px;
+  margin-top: 20px;
+  margin-left: 10px;
+  background-color: #3f525c;
+  border-radius: 2px;
+  border: none;
+  color: white;
+}
+
+.btn-form:hover:enabled {
+  background-color: rgb(129, 171, 57);
+}
+.btn-form:disabled {
+  cursor: not-allowed;
+  filter: alpha(opacity=65);
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  opacity: .65;
+}

@@ -1,3 +1,8 @@
-# AngularHeroTutorial
+# AngularHeroTutorial & Template-Driven Form
 
-Learning Angular. First steps.
+Learning Angular:
+- components,
+- servises,
+- routing,
+- search,
+- forms.
